@@ -1,0 +1,5 @@
+{
+  "DataProvider": "sqlserver",
+  "DataConnectionString": "Data Source=localhost;Initial Catalog=nopcommerce;Integrated Security=False;Persist Security Info=False;User ID=sa;Password=admin.123456",
+  "RawDataSettings": {}
+}
